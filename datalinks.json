@@ -1,0 +1,12 @@
+{
+    "drugs": {
+                "csv":["./data/drugs.csv"]
+             },
+    "pubmed": {
+                "csv":["./data/pubmed.csv"],
+                "json":["./data/pubmed.json"]
+              },
+    "clinical_trials": {
+                        "csv":["./data/clinical_trials.csv"]
+                       }
+}
